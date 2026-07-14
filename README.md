@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Adnan Bin Akhlas
+# Hi, I'm 👋 Adnan Bin Akhlas
 
 **Full-Stack Web Developer**
 
