@@ -10,7 +10,17 @@
 
 Building modern, scalable, and maintainable web applications with the MERN and PERN ecosystems.
 
-[Portfolio](https://adnanbinakhlas.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/adnanbinakhlas/) • [Email](mailto:adnanbinakhlas.io@gmail.com)
+<p align="center">
+  <a href="https://adnanbinakhlas.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/adnanbinakhlas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adnanbinakhlas.io@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
@@ -25,18 +35,6 @@ Building modern, scalable, and maintainable web applications with the MERN and P
 - Strong interest in backend engineering, database design, authentication, and API security.
 - Comfortable working in Linux-based development environments and Git-driven workflows.
 - Continuously learning modern web technologies and software engineering best practices.
-
----
-
----
-
-## Currently Learning
-
-- Advanced TypeScript
-- SEO (Search Engine Optimization)
-- PostgreSQL Optimization
-- System Design Fundamentals
-- Software Engineering Best Practices
 
 ---
 
@@ -116,6 +114,18 @@ A rental property management platform designed for the Bangladesh market.
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=adnanbinakhlas&hide_border=true" alt="GitHub Streak" />
 </div>
+
+---
+
+## Currently Learning
+
+- Advanced TypeScript
+- Next.js
+- PostgreSQL Optimization
+- System Design Fundamentals
+- Software Engineering Best Practices
+
+---
 
 <div align="center">
 
