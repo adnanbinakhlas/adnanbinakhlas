@@ -18,13 +18,13 @@ Building modern, scalable, and maintainable web applications with the MERN and P
 
 ## About Me
 
-* Full-Stack Web Developer focused on building production-ready web applications.
-* Experienced in developing responsive and performant user interfaces using React.js and Next.js.
-* Skilled in designing RESTful APIs with Node.js, Express.js, PostgreSQL, and MongoDB.
-* Passionate about clean code, scalable architecture, and maintainable software solutions.
-* Strong interest in backend engineering, database design, authentication, and API security.
-* Comfortable working in Linux-based development environments and Git-driven workflows.
-* Continuously learning modern web technologies and software engineering best practices.
+- Full-Stack Web Developer focused on building production-ready web applications.
+- Experienced in developing responsive and performant user interfaces using React.js and Next.js.
+- Skilled in designing RESTful APIs with Node.js, Express.js, PostgreSQL, and MongoDB.
+- Passionate about clean code, scalable architecture, and maintainable software solutions.
+- Strong interest in backend engineering, database design, authentication, and API security.
+- Comfortable working in Linux-based development environments and Git-driven workflows.
+- Continuously learning modern web technologies and software engineering best practices.
 
 ---
 
@@ -52,17 +52,17 @@ A rental property management platform designed for the Bangladesh market.
 
 #### Key Highlights
 
-* Building a scalable RESTful API using Express.js, PostgreSQL, and Prisma ORM.
-* Implementing secure authentication and authorization using JWT with the **jose** library.
-* Integrating Stripe for subscription management and payment processing.
-* Optimizing application performance through Redis caching.
-* Developing advanced search, filtering, sorting, pagination, and field selection capabilities for efficient data retrieval.
-* Designing scalable database schemas and relationships using PostgreSQL.
-* Managing image uploads, storage, and optimization with Cloudinary.
-* Applying robust request validation using Zod.
-* Following clean architecture principles and modern backend development practices.
+- Building a scalable RESTful API using Express.js, PostgreSQL, and Prisma ORM.
+- Implementing secure authentication and authorization using JWT with the **jose** library.
+- Integrating Stripe for subscription management and payment processing.
+- Optimizing application performance through Redis caching.
+- Developing advanced search, filtering, sorting, pagination, and field selection capabilities for efficient data retrieval.
+- Designing scalable database schemas and relationships using PostgreSQL.
+- Managing image uploads, storage, and optimization with Cloudinary.
+- Applying robust request validation using Zod.
+- Following clean architecture principles and modern backend development practices.
 
-**Repository:** https://github.com/adnanbinakhlas/rentnest
+**Repository:** https://github.com/adnanbinakhlas/rent-nest-server
 
 ---
 
@@ -88,11 +88,11 @@ A rental property management platform designed for the Bangladesh market.
 
 ## Currently Learning
 
-* Advanced TypeScript
-* Next.js
-* PostgreSQL Optimization
-* System Design Fundamentals
-* Software Engineering Best Practices
+- Advanced TypeScript
+- Next.js
+- PostgreSQL Optimization
+- System Design Fundamentals
+- Software Engineering Best Practices
 
 ---
 
@@ -102,6 +102,6 @@ Building reliable web applications through continuous learning and practical dev
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=adnanbinakhlas\&style=flat-square\&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=adnanbinakhlas&style=flat-square&label=Profile+Views)
 
 </div>
