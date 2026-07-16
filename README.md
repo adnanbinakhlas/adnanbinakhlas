@@ -101,11 +101,6 @@ Building modern, scalable, and maintainable web applications with a focus on per
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adnanbinakhlas&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2" alt="Adnan Bin Akhlas GitHub Statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanbinakhlas&layout=compact&hide_border=true&title_color=0A66C2" alt="Adnan Bin Akhlas Top Programming Languages" />
-</div>
-<br />
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=adnanbinakhlas&hide_border=true&ring=0A66C2&fire=0A66C2" alt="Adnan Bin Akhlas GitHub Commit Streak" />
 </div>
 
